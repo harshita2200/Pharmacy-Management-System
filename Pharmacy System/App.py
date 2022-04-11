@@ -3,8 +3,8 @@ from tkinter import messagebox
 import os
 f=open("database",'a+')
 root = Tk()
-root.title("Pharmacy Managment System By - Sagar")
-root.configure(width=1500,height=600,bg='BLACK')
+root.title("Pharmacy Managment System")
+root.configure(width=1500,height=600,bg='WHITE')
 var=-1
 
 def additem():
